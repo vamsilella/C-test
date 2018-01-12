@@ -2,11 +2,12 @@
 #include <string.h>
 
 int main(){
-	char str[100], tmp, rev[100];
+	char str[100], tmp, rev[100]
 	int begin, end;
+        int hi; yes
 	
 	//input
-	printf("Enter string: ");
+	printf("Enter string: ";
 	scanf("%s", &str);
 	
 	//copy str to rev
